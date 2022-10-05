@@ -4,7 +4,7 @@ public class Main {
 
     public static void main(String[] args) {
         
-        //String test = "d4&5e3Z8";
+        //String test = "d4&5e3Z8";     -> String for ease of testing
         Scanner keyboard = new Scanner(System.in);
         String test = keyboard.nextLine();
         
